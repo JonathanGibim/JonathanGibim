@@ -6,20 +6,21 @@ Atualmente estou focado em projetos próprios e no desenvolvimento de soluções
 
 ---
 
-🚀 Tecnologias & Ferramentas
-Linguagens: PHP, JavaScript, Python
-Front-end: HTML, CSS, Bootstrap, jQuery
-Back-end: Laravel, API REST, MySQL
-Outros: Git, JSON
+## 🛠️ Tecnologias
 
+- **Linguagens:** PHP • JavaScript • Python  
+- **Front-end:** HTML • CSS • Bootstrap • jQuery  
+- **Back-end:** Laravel • MySQL • APIs REST  
+- **Extras:** Git • JSON
 ---
 
-💼 Projetos em Destaque
-xcontabil – Site institucional para contabilidade com foco em usabilidade.
-xcontabil-lp – Landing page otimizada para geração de leads.
-xsite – Criador de sites dinâmico com JavaScript.
-crud-bot-telegram – Bot para Telegram com funcionalidades de CRUD.
-api-rest-laravel – API RESTful com Laravel para integração de sistemas.
+## 📌 Projetos em Destaque
+
+🔹 [**xcontabil**](https://github.com/JonathanGibim/xcontabil) — Site institucional para contabilidade  
+🔹 [**xcontabil-lp**](https://github.com/JonathanGibim/xcontabil-lp) — Landing page para geração de leads  
+🔹 [**xsite**](https://github.com/JonathanGibim/xsite) — Criador de sites dinâmico  
+🔹 [**crud-bot-telegram**](https://github.com/JonathanGibim/crud-bot-telegram) — Bot CRUD para Telegram  
+🔹 [**api-rest-laravel**](https://github.com/JonathanGibim/api-rest-laravel) — API RESTful com Laravel  
 
 ---
 
