@@ -19,8 +19,7 @@ Atualmente estou focado em projetos próprios e no desenvolvimento de soluções
 🔹 [**xcontabil**](https://github.com/JonathanGibim/xcontabil) — Site institucional para contabilidade  
 🔹 [**xcontabil-lp**](https://github.com/JonathanGibim/xcontabil-lp) — Landing page para geração de leads  
 🔹 [**xsite**](https://github.com/JonathanGibim/xsite) — Criador de sites dinâmico  
-🔹 [**crud-bot-telegram**](https://github.com/JonathanGibim/crud-bot-telegram) — Bot CRUD para Telegram  
-🔹 [**api-rest-laravel**](https://github.com/JonathanGibim/api-rest-laravel) — API RESTful com Laravel  
+🔹 [**crud-bot-telegram**](https://github.com/JonathanGibim/crud-bot-telegram) — Bot CRUD para Telegram    
 
 ---
 
